@@ -1,6 +1,6 @@
  //My api key
  var apikey = {
-    key: "a64963da-cb36-444c-a3ba-2858fe781ea4"
+    key: ""
 }
 
 //GET Fetch Requisition
